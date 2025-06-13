@@ -1,0 +1,283 @@
+Nome: Questionário - amidas e ésteres
+
+Tipo: questionario
+
+Disciplina: Princípios de Química Orgânica
+
+Data de entrega: 28/06/2025
+
+Peso 1 para cada questão
+
+1.Dê o produto principal (A até G) para as reações (1 até 5) abaixo:
+
+Fig. 1
+
+
+(A) Sem produto
+
+(B) N-benzil hexanamida
+
+(C) N,N-dibenzil hexanamida
+
+(D) Imida
+
+(E) Lactama
+
+(F) N-fenil hexanamida
+
+(G) N,N-difenil hexanamida
+
+
+Alternativas:
+
+(A) A-2, B-3, C-5, D-1, E-4
+(B) A-1, C-4, D-3, F-5, G-2
+(C) A-3, D-5, E-4, F-1, G-2 
+(D) B-1, D-2, E-5, F-3, G-4
+(E) A-4, C-2, D-1, E-3, G-5
+
+Alternativa correta: (C)
+
+
+2. Dê a ordem decrescente de ponto de ebulição para: butanal, ácido propanóico, butanol, etanoato de metila, butanamida.
+
+(A) butanol > butanamida > ácido propanóico > butanal > etanoato de metila
+(B) butanamida > ácido propanóico > butanol > butanal > etanoato de metila 
+(C) ácido propanóico > butanol > etanoato de metila > butanamida > butanal
+(D) etanoato de metila > butanal > butanol > ácido propanóico > butanamida
+(E) butanal > etanoato de metila > butanol > ácido propanóico > butanamida
+
+Alternativa correta: (B)
+
+3. Associe a nomenclatura (1 a 5) a sua correspondente estrutura molecular (A a E).
+
+Fig. 2
+
+(1) 2-metilpropanoato de benzila
+
+(2) Benzoato de 2-metilpropila
+
+(3) 2,2-dimetilpropanoato de propila
+
+(4) 2,2-dimetilpropanoato de 2,2-dimetil de propila
+
+(5) Propanoato de 2,2-dimetil de propila
+
+Alternativas:
+
+(A) 1-A, 2-D, 3-E, 4-C, 5-B
+(B) 1-B, 2-E, 3-A, 4-C, 5-D
+(C) 1-C, 2-B, 3-D, 4-A, 5-E
+(D) 1-D, 2-C, 3-B, 4-E, 5-A 
+(E) 1-E, 2-A, 3-C, 4-B, 5-D
+
+Alternativa correta: (D)
+
+
+4. Associe as reações (1 a 5) aos produtos (A a E):
+
+Fig. 3
+
+(A) Benzoato de benzila
+
+(B) Anidrido benzóico
+
+(C) Anidrido etanóico
+
+(D) Fenilacetato de fenila
+
+(E) Gama-lactona
+
+Alternativas:
+
+(A) A-4, B-5, C-2, D-1, E-3
+(B) A-5, B-4, C-1, D-2, E-3 
+(C) A-3, B-2, C-5, D-4, E-1
+(D) A-1, B-3, C-4, D-5, E-2
+(E) A-2, B-1, C-3, D-4, E-5
+
+Alternativa correta: (B)
+
+5. Associe as estruturas moleculares (A até E) às nomenclaturas (1 até 5):
+
+Fig. 4
+
+(1) Delta-lactona
+
+(2) Épsilon-lactona
+
+(3) Anidrido benzóico etanóico
+
+(4) Anidrido etanóico feniletanóico
+
+(5) Anidrido 2,2-dimetilpropanóico 2-metilpropanóico
+
+Alternativas:
+
+(A) 1-E, 2-D, 3-A, 4-B, 5-C 
+(B) 1-D, 2-E, 3-B, 4-A, 5-C
+(C) 1-E, 2-C, 3-A, 4-D, 5-B
+(D) 1-C, 2-B, 3-E, 4-A, 5-D
+(E) 1-B, 2-A, 3-D, 4-C, 5-E
+
+Alternativa correta: (A)
+
+6. Associe o fragmento ou grupo (1 até 5) à sua estrutura realçada em azul (A até E):
+
+Fig. 5
+
+(1) Fenila
+
+(2) Acila
+
+(3) Carbonila
+
+(4) Benzila
+
+(6) Carboxila
+
+Alternativas:
+
+(A) 1-E, 2-B, 3-D, 4-C, 5-A
+(B) 1-D, 2-B, 3-C, 4-E, 5-A
+(C) 1-C, 2-D, 3-B, 4-E, 5-A
+(D) 1-B, 2-C, 3-D, 4-A, 5-E
+(E) 1-D, 2-C, 3-B, 4-E, 5-A 
+
+
+Alternativa correta: (E)
+
+
+7. Associe o subproduto (A até D) das reações abaixo com sua correspondente nomenclatura (1 até 4):
+
+Fig. 6
+
+
+(1) Ácido clorídrico
+
+(2) Ácido acético
+
+(3) Água
+
+(4) Etanol
+
+Alternativas:
+
+(A) 1-B, 2-D, 3-C, 4-A
+(B) 1-D, 2-A, 3-B, 4-C
+(C) 1-C, 2-B, 3-D, 4-A
+(D) 1-D, 2-B, 3-A, 4-C 
+(E) 1-A, 2-C, 3-D, 4-B
+
+Alternativa correta: (D)
+
+8. Complete as reações abaixo com os reagentes (A até C) de acordo com as possibilidades (1 até 6):
+
+Fig. 7
+
+(1) Metanamina
+
+(2) Isopropilamina
+
+(3) Terc-butilamina
+
+(4) Amônia
+
+(5) N-terc-butilpropan-2-amina
+
+(6) N-isopropilpropan-2-amina
+
+
+Alternativas:
+
+(A) 2-A, 4-C, 6-B 
+(B) 1-A, 5-B, 6-C
+(C) 2-C, 4-A, 6-B
+(D) 1-B, 4-A, 5-C
+(E) 2-C, 3-B, 5-A
+
+Alternativa correta: (A)
+
+9. Teoricamente, de acordo com o número de hidrogênios próticos e pares de elétrons isolados do heteroátomo, associe o número de ligações de hidrogênio que uma molécula pode ter (A até F) com  a substância indicada abaixo (1 até 8):
+
+Substâncias:
+
+(1) Neopentanol
+
+(2) Acetato de etila
+
+(3) Ácido acético
+
+(4) Butanamina
+
+(5) Propanona
+
+(6) Etanamida
+
+(7) N-metilpropanamida
+
+(8) N,N-dimetilpropanamida
+
+Número de ligações de hidrogênio a substância pode ter:
+
+(A) 0 ligação de hidrogênio
+
+(B) 1 ligação de hidrogênio
+
+(C) 2 ligações de hidrogênio
+
+(D) 3 ligações de hidrogênio
+
+(E) 4 ligações de hidrogênio
+
+(F) 5 ligações de hidrogênio
+
+
+Alternativas:
+
+(A) 1-E, 2-B, 3-C, 4-D, 5-B, 6-F, 7-D, 8-A
+(B) 1-C, 2-A, 3-D, 4-D, 5-B, 6-E, 7-F, 8-A
+(C) 1-D, 2-A, 3-C, 4-D, 5-A, 6-F, 7-E, 8-A 
+(D) 1-D, 2-B, 3-E, 4-C, 5-A, 6-D, 7-F, 8-B
+(E) 1-D, 2-C, 3-C, 4-E, 5-B, 6-F, 7-D, 8-A
+
+Alternativa correta: (C)
+
+
+10. Dê a ordem crescente de ponto de ebulição para as amidas (A até F) da figura abaixo:
+
+Fig. 8
+
+Alternativas:
+
+(A) E < F < A < B < C < D
+
+(B) A < B < C < D < E < F
+
+(C) F < A < B < C < D < E
+
+(D) B < C < D < E < F < A
+
+(E) C < D < E < F < A < B
+
+
+Alternativa correta: (C)
+
+
+
+
+Fig. 1: https://github.com/clfdev/assets/raw/6a83eef3ecf126fc40507791cb5524f051fd90e7/fig1-questionario-esteres-amidas.png
+
+Fig. 2: https://github.com/clfdev/assets/raw/6a83eef3ecf126fc40507791cb5524f051fd90e7/fig2-questionario-esteres-amidas.png
+
+Fig. 3: https://github.com/clfdev/assets/raw/6a83eef3ecf126fc40507791cb5524f051fd90e7/fig3-questionario-esteres-amidas.png
+
+Fig. 4: https://github.com/clfdev/assets/raw/6a83eef3ecf126fc40507791cb5524f051fd90e7/fig4-questionario-esteres-amidas.png
+
+Fig. 5: https://github.com/clfdev/assets/raw/6a83eef3ecf126fc40507791cb5524f051fd90e7/fig5-questionario-esteres-amidas.png
+
+Fig. 6: https://github.com/clfdev/assets/raw/6a83eef3ecf126fc40507791cb5524f051fd90e7/fig6-questionario-esteres-amidas.png
+
+Fig. 7: https://github.com/clfdev/assets/raw/6a83eef3ecf126fc40507791cb5524f051fd90e7/fig7-questionario-esteres-amidas.png
+
+Fig. 8: https://github.com/clfdev/assets/raw/6a83eef3ecf126fc40507791cb5524f051fd90e7/fig8-questionario-esteres-amidas.png
