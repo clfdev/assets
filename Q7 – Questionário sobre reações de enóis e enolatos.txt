@@ -1,0 +1,142 @@
+Q7 – Questionário sobre reações de enóis e enolatos
+(Entregar até 20/06/25)
+
+Observação: cada questão vale 10 pontos
+
+1. Identifique o produto para cada reação abaixo
+
+(Fig. 1)
+
+<colocar 5 alternativas>
+Alternativa correta: A-4, B-2, C-5, D-1, E-3
+
+2. Dê o produto principal da reação aldólica cruzada abaixo
+
+(Fig. 2)
+
+Alternativas:
+
+(A) Produto (1) <correta>
+
+(B) Produto (2) 
+
+(C) Produto (3) 
+
+(D) Produto (4)
+
+(E) Produto (5)
+
+3. Dê o produto para as reações abaixo
+
+(Fig. 3)
+
+<dê 5 alternativas>
+
+Obs.: 10 - Não há reação
+
+Alternativa correta: A-2, B-5, C-7, D-10
+
+4. Dê o(s) reagente(s) necessário(s) para se reagir com CH₃CH₂CH(OH)CH(CH₃)CHO para se obter os produtos abaixo:
+Dica: use fórmula traço no rascunho.
+
+Reagentes
+
+1. H₂SO₄ / NaBH₄
+
+2. H₂SO₄ ou H₃O⁺
+
+3. H₂SO₄ / H₂, Ni (alta pressão)
+
+4. H₂SO₄ / CH₃Li / H₃O⁺
+
+Produtos possíveis:
+
+A) CH₃CH₂CH=C(CH₃)CHO
+B) CH₃CH₂CH(CH₃)CH(CH₃)CHO
+C) CH₃CH₂CH=C(CH₃)CH₂OH
+D) CH₃CH₂CH₂CH(CH₃)CH₂OH
+
+Alternativas:
+<dê 5 alternativas>
+
+Resposta correta: A-2, B-4, C-1, D-3
+
+5. Identifique as moléculas das reações abaixo:
+
+(Fig. 4)
+
+Alternativas:
+
+(dê 5 alternativas)
+
+Alternativa correta: A-1, B-3, C-5, D-4
+
+6. Dê a nomenclatura do composto formado a partir da reação do biciclo[2.2.1]heptan-2-ona com iodeto de propila em meio básico. 
+
+Alternativas:
+
+A) 3-propilbiciclo[2.2.1]heptan-2-ona
+B) 1-propilbiciclo[2.2.1]heptan-2-ona
+C) 3-propilbiciclo[2.2.1]heptan-3-ona
+D) 2-propilbiciclo[2.2.1]heptan-2-ona
+E) 3-isopropilbiciclo[2.2.1]heptan-2-ona
+
+Alternativa correta: (A) 
+
+7. Dê a nomenclatura do produto da condensação aldólica de (1) butanal e do produto da adição aldólica de (2) pentan-3-ona.
+
+
+
+Alternativas:
+
+A) (1) 3-hidroxi-2-etil-hexanal; (2) 5-hidroxi-5-etil-heptan-3-ona
+B) (1) 2-etil-hex-2-enal; (2) 4-hidroxi-5-etil-heptan-3-ona
+C) (1) 3-etil-pent-2-enal; (2) 5-etil-5-oxo-heptan-3-ol
+D) (1) 2-propil-hex-2-enal; (2) 4-hidroxi-4-metil-hexan-2-ona
+E) (1) 2-etil-hex-2-enal; (2) 5-etil-5-hidroxi-4-metil-heptan-3-ona
+
+Alternativa correta: (E)
+
+8. Dê o produto para cada reação abaixo
+
+(Fig. 5)
+
+(Dê 5 alternativas)
+
+7- Não há reação.
+
+Alternativa correta: A-3, B-1, C-7, D-4, E-6
+
+
+9. Dê a nomenclatura do produto aldol  obtido em meio básico a baixa temperatura do: (1) propanal e (2) propanona.
+
+Alternativas:
+
+A) (1) 3-hidroxi-2-metilpentanal; (2) 4-hidróxi-4-metilpent-2-ona
+B) (1) 3-hidroxi-hexanal; (2) 4-hidróxi-4-metilpent-2-ona
+C) (1) 3-hidroxi-2-metilpentanal; (2) 4-hidróxi-4-metilhexan-2-ona
+D) (1) 2-hidroxi-3-metilpentanal; (2) 4-hidróxi-4-metilpentan-3-ona
+E) (1) 3-hidroxi-2-metilhexanal; (2) 4-hidróxi-3-metilpent-2-ona
+
+Resposta correta: (A)
+
+10. Dê a nomenclatura do produto da condensação aldólica obtido em meio ácido a temperatura ambiente do: (1) propanal e (2) propanona.
+
+Alternativas:
+
+A) (1) 2-metilpent-2-enal; (2) 4-hidroxi-4-metilpentan-2-ona
+B) (1) 3-metilpent-2-enal; (2) 4-metilpent-3-en-2-ona
+C) (1) 2-metilpent-2-enal; (2) 4-metilpent-3-en-2-ona
+D) (1) 2-metilpent-3-enal; (2) 4-metilhex-3-en-2-ona
+E) (1) 3-hidroxi-2-metilpentanal; (2) 4-hidroxi-4-metilpentan-2-ona
+
+Resposta correta: (C)
+
+
+Fig. 1: https://github.com/clfdev/assets/raw/9fb48f9ba755cc6b0825b9d60f57e4cf49b6082a/fig1-q7-organicaII.png 
+Fig. 2: https://github.com/clfdev/assets/raw/5d79629585a8284ff3cac9a0aaea4c7c4a929549/fig2-q7-organicaII.png
+Fig. 3: https://github.com/clfdev/assets/raw/5d79629585a8284ff3cac9a0aaea4c7c4a929549/fig3-q7-organicaII.png
+Fig. 4: https://github.com/clfdev/assets/raw/5d79629585a8284ff3cac9a0aaea4c7c4a929549/fig4-q7-organicaII.png
+Fig. 5: https://github.com/clfdev/assets/raw/5d79629585a8284ff3cac9a0aaea4c7c4a929549/fig5-q7-organicaII.png
+
+

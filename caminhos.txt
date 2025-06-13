@@ -3,3 +3,13 @@ https://github.com/clfdev/assets/raw/5d79629585a8284ff3cac9a0aaea4c7c4a929549/fi
 https://github.com/clfdev/assets/raw/5d79629585a8284ff3cac9a0aaea4c7c4a929549/fig3-q7-organicaII.png
 https://github.com/clfdev/assets/raw/5d79629585a8284ff3cac9a0aaea4c7c4a929549/fig4-q7-organicaII.png
 https://github.com/clfdev/assets/raw/5d79629585a8284ff3cac9a0aaea4c7c4a929549/fig5-q7-organicaII.png
+
+Inserir questionario (tipo questioário) para a disciplina de química orgânica II (id_disciplina = 2) com as questões em anexo. O questionário chama-se Q7-Reações de enóis e enolatos.  As urls das imagens são: 
+
+https://github.com/clfdev/assets/raw/9fb48f9ba755cc6b0825b9d60f57e4cf49b6082a/fig1-q7-organicaII.png 
+https://github.com/clfdev/assets/raw/5d79629585a8284ff3cac9a0aaea4c7c4a929549/fig2-q7-organicaII.png
+https://github.com/clfdev/assets/raw/5d79629585a8284ff3cac9a0aaea4c7c4a929549/fig3-q7-organicaII.png
+https://github.com/clfdev/assets/raw/5d79629585a8284ff3cac9a0aaea4c7c4a929549/fig4-q7-organicaII.png
+https://github.com/clfdev/assets/raw/5d79629585a8284ff3cac9a0aaea4c7c4a929549/fig5-q7-organicaII.png
+
+Há questões de grade de multipla escolha que terão que ser transformadas em multipla escolha. Segue o gabarito na ordem 
