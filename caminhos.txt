@@ -21,3 +21,5 @@ https://github.com/clfdev/assets/raw/d5f552b44b6b03753188a4fc57452177f4c6438e/QO
 https://github.com/clfdev/assets/raw/d5f552b44b6b03753188a4fc57452177f4c6438e/QOII-terceira-prova-fig.6.png
 https://github.com/clfdev/assets/raw/c7b1144aec26682bf87e89ff7ac8aa17823aeb87/QOII-terceira-prova-fig.7.png
 https://github.com/clfdev/assets/raw/106591bdb96416983367c591afa7f53a358ee508/QOII-terceira-prova-fig.8.png
+https://github.com/clfdev/assets/raw/a304945c700004969332bccda20814512ec872fe/QOII-terceira-prova-fig.9.png
+
