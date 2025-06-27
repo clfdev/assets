@@ -1,0 +1,125 @@
+1a questão
+Enunciado: Dê o produto principal das reações a seguir:
+Alternativas:
+
+a) A-éster, B-anidrido ácido, C-lactama, D-amida primária, E-lactona, F-sem produto, G-imida, H-amida secundária
+b) A-amida secundária, B-lactona, C-imida, D-amida primária, E-éster, F-anidrido ácido, G-sem produto, H-lactama
+c) A-lactona, B-amida secundária, C-anidrido ácido, D-éster, E-lactama, F-imida, G-amida primária, H-sem produto
+d) A-lactama, B-lactona, C-éster, D-anidrido ácido, E-amida secundária, F-imida, G-sem produto, H-amida primária
+e) A-anidrido ácido, B-éster, C-amida primária, D-amida secundária, E-sem produto, F-lactona, G-imida, H-lactama 
+
+
+Gabarito: e) A-anidrido ácido, B-éster, C-amida primária, D-amida secundária, E-sem produto, F-lactona, G-imida, H-lactama 
+------------
+2a questão
+Enunciado:Baseado no critério da hidrofobicidade, dê a ordem crescente de solubilidade em água das amidas abaixo:
+Alternativas:
+a) (A) < (C) < (D) < (E) < (B)
+b) (B) < (E) < (D) < (C) < (A)
+c) (A) > (C) > (D) > (E) > (B)
+d) (B) > (E) > (D) > (C) > (A)
+e) n.d.a.
+
+Gabarito: a) (A) < (C) < (D) < (E) < (B)
+--------------
+3a questão
+Enunciado: Associe o produto à correspondente reação de acordo com a figura abaixo:
+Alternativas:
+
+a) A-2, B-3, C-5, D-1, E-4
+b) A-5, B-1, C-3, D-4, E-2
+c) A-3, B-4, C-2, D-5, E-1 
+d) A-4, B-2, C-1, D-3, E-5
+3) A-1, B-5, C-4, D-2, E-3
+
+
+Gabarito: c) A-3, B-4, C-2, D-5, E-1
+-------------
+4a questão
+Enunciado:Dê a nomenclatura correta para as moléculas abaixo:
+Alternativas:
+
+a) A-benzoato de fenila, B-anidrido benzóico metanóico, C-N,N-difenil benzamida, D-ácido fenilacético, E-anidrido etanóico propanóico 
+b) A-fenilacetato de benzila, B-anidrido propanóico etanóico, C-N,N-dibenzil benzamida, D-ácido benzóico, E-anidrido fenilacético metanóico
+c) A-anidrido fenilacético metanóico, B-ácido benzóico, C-N,N-dibenzil benzamida, D-fenilacetato de benzila, E-anidrido propanóico etanóico
+d) A-anidrido propanóico etanóico, B-fenilacetato de benzila, C-N,N-dibenzil benzamida, D-ácido benzóico, E-anidrido fenilacético metanóico
+e) A-ácido benzóico, B-anidrido fenilacético metanóico, C-N,N-dibenzil benzamida, D-fenilacetato de benzila, E-anidrido propanóico etanóico
+
+Gabarito: a) A-benzoato de fenila, B-anidrido benzóico metanóico, C-N,N-difenil benzamida, D-ácido fenilacético, E-anidrido etanóico propanóico
+--------------
+5a questão
+Enunciado: Associe a molécula com sua classificação (primário, secundário ou terciário).
+Alternativas:
+
+a) A-secundário, B-primário, C-terciário, D-secundário, E-primário, F-terciário, G-primário, H-terciário, I-secundário
+b) A-primário, B-terciário, C-secundário, D-primário, E-terciário, F-secundário, G-secundário, H-primário, I-terciário
+c) A-terciário, B-terciário, C-terciário, D-terciário, E-terciário, F-terciário, G-terciário, H-terciário, I-terciário
+d) A-primário, B-secundário, C-primário, D-secundário, E-secundário, F-primário, G-terciário, H-secundário, I-secundário
+e)  A-terciário, B-secundário, C-primário, D-terciário, E-secundário, F-primário, G-primário, H-secundário, I-primário
+
+Gabarito: b) A-primário, B-terciário, C-secundário, D-primário, E-terciário, F-secundário, G-secundário, H-primário, I-terciário
+--------------
+6a questão
+Enunciado:Associe a amida a sua nomenclatura
+Alternativas:
+
+a) A-N-fenil 2-metil propanamida, B-N-benzil 2-metil propanamida, C-N-isopropil benzamida, D-N-fenil benzamida, E-N-benzil benzamida, F-N-tercButil, N-isopropil benzamida, G-N-fenil N-benzil 2-fenilacetamida, H-N-fenil 2-fenilacetamida, I-N-benzil 2-fenilacetamida
+b) A-N-isopropil benzamida, B-N-tercButil 2-metil propanamida, C-N-fenil 2-metil propanamida, D-N-fenil benzamida, E-N-benzil benzamida, F-N-tercButil, N-isopropil benzamida, G-N-benzil N-isopropil 2-fenilacetamida, H-N-fenil 2-fenilacetamida, I-N-benzil 2-fenilacetamida
+c) A-N-fenil benzamida, B-N-isopropil benzamida, C-N-tercButil benzamida, D-N-benzil benzamida, E-N-fenil 2-metil propanamida, F-N-isopropil N-fenil 2-fenilacetamida, G-N-benzil N-isopropil 2-fenilacetamida, H-N-fenil 2-fenilacetamida, I-N-benzil 2-fenilacetamida
+d) A-N-benzil benzamida, B-N-tercButil benzamida, C-N-fenil 2-metil propanamida, D-N-fenil benzamida, E-N-isopropil benzamida, F-N-tercButil N-fenil 2-fenilacetamida, G-N-isopropil N-benzil 2-fenilacetamida, H-N-fenil 2-fenilacetamida, I-N-benzil 2-fenilacetamida
+e) A-N-benzil 2-metil propanamida, B-N-fenil 2-metil propanamida, C-N-fenil benzamida, D-N-isopropil benzamida, E-N-tercButil benzamida, F-N-tercButil N-isopropil 2-fenilacetamida, G-N-benzil N-fenil 2-fenilacetamida, H-N-benzil 2-fenilacetamida, I-N-fenil 2-fenilacetamida 
+
+Gabarito: e) A-N-benzil 2-metil propanamida, B-N-fenil 2-metil propanamida, C-N-fenil benzamida, D-N-isopropil benzamida,
+          E-N-tercButil benzamida, F-N-tercButil, N-isopropil 2-fenilacetamida, G-N-benzil N-fenil 2-fenilacetamida,  
+          H-N-benzil 2-fenilacetamida, I-N-fenil 2-fenilacetamida
+          
+--------------
+7a questão
+Enunciado: Associe a nomenclatura à estrutura
+Alternativas:
+
+a) A-alfa lactama, B-gama lactona, C-beta lactama, D-alfa lactona, E-gama lactama, F-beta lactona
+b) A-gama lactama, B-beta lactona, C-alfa lactona, D-gama lactona, E-beta lactama, F-alfa lactama
+c) A-beta lactama, B-gama lactama, C-beta lactona, D-alfa lactama, E-gama lactona, F-alfa lactona
+d) A-beta lactona, B-alfa lactama, C-gama lactona, D-beta lactama, E-alfa lactona, F-gama lactama 
+e) A-gama lactona, B-beta lactama, C-alfa lactama, D-gama lactama, E-beta lactona, F-alfa lactona
+
+
+Gabarito: d) A-beta lactona, B-alfa lactama, C-gama lactona, D-beta lactama, E-alfa lactona, F-gama lactama
+--------------
+8a questão
+Enunciado: Dê a ordem crescente de ponto de ebulição para os grupos funcionais abaixo:
+Alternativas:
+
+a) (A) < (B) < (C) < (D) < (E)
+b) (B) < (A) < (C) < (E) < (D)
+c) (C) < (B) < (A) < (E) < (D)
+d) (C) < (A) < (B) < (E) < (D)
+e) (C) < (A) < (B) < (D) < (E)
+
+Gabarito: d) (C) < (A) < (B) < (E) < (D)
+--------------
+9a questão
+Enunciado: Complete as reações abaixo de acordo com as moléculas indicadas pelos números (1) a (5)
+Alternativas:
+
+a) A-2, B-4, C-1, D-3, E-5
+b) A-3, B-1, C-4, D-5, E-2
+c) A-5, B-2, C-3, D-1, E-4
+d) A-4, B-5, C-2, D-1, E-3
+e) A-1, B-3, C-5, D-2, E-4
+
+Gabarito: a) A-2, B-4, C-1, D-3, E-5
+--------------
+10 questão
+Enunciado: Dar a ordem decrescente de acidez dos ácidos carboxílicos mostrados abaixo:
+Alternativas:
+
+a) (A) > (E) > (C) > (D) > (B)
+b) (C) > (E) > (D) > (A) > (B)
+c) (B) > (A) > (E) > (C) > (D)
+d) (D) > (C) > (E) > (A) > (B)
+e) (B) > (D) > (C) > (E) > (A)
+
+Gabarito: d) (D) > (C) > (E) > (A) > (B)
+--------------
